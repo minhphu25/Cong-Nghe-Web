@@ -90,7 +90,7 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/thumbnail-xe/trang-baseball-card/THUMBNAIL-600x600-3008-new-logo.png" alt="">   
                          New PEUGEOT 3008            
                   </a>
-                  <span>900.000.000VND</span>     
+                  <span>950.000.000VND</span>     
                 </li>
 
                  <li class="body-item">
@@ -98,7 +98,7 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/thumbnail-xe/trang-baseball-card/newpeugeot-408-THUMBNAIL-600x600.png" alt="">   
                          PEUGEOT 408           
                   </a>
-                  <span>900.000.000VND</span>     
+                  <span>1.000.000.000VND</span>     
                 </li>
 
                  <li class="body-item">
@@ -106,7 +106,7 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/thumbnail-xe/trang-baseball-card/THUMBNAIL-600x600-5008-new-logo.png" alt="">   
                          New PEUGEOT 5008            
                   </a>
-                  <span>900.000.000VND</span>     
+                  <span>1.050.000.000VND</span>     
                 </li>
 
                  <li class="body-item">
@@ -114,7 +114,7 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/peugeot-png/Peugeot-Traveller.png" alt="">   
                          PEUGEOT Traveller        
                   </a>
-                  <span>900.000.000VND</span>     
+                  <span>1.500.000.000VND</span>     
                 </li>
 
             </ul>

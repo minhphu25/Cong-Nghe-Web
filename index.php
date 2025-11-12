@@ -111,8 +111,8 @@
 
                  <li class="body-item">
                   <a  href="#">
-                    <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/trang-san-pham-2008-mca/thumbnail/new-peugeot-2008-THUMBNAIL-600x600.png" alt="">   
-                         New PEUGEOT 2008            
+                    <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/peugeot-png/Peugeot-Traveller.png" alt="">   
+                         PEUGEOT Traveller        
                   </a>
                   <span>900.000.000VND</span>     
                 </li>

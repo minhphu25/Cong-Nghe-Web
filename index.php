@@ -9,6 +9,7 @@
   
 </head>
 <script src="./admincp/asset/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="./admincp/asset/bootstrap/js/js_phu.js"></script>
 <body>
     <div class="wrapper">
       <!-- header -->
@@ -82,6 +83,7 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/trang-san-pham-2008-mca/thumbnail/new-peugeot-2008-THUMBNAIL-600x600.png" alt="">   
                          New PEUGEOT 2008            
                   </a>
+                  <br>
                   <span>900.000.000VND</span>     
                 </li>
 
@@ -90,6 +92,7 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/thumbnail-xe/trang-baseball-card/THUMBNAIL-600x600-3008-new-logo.png" alt="">   
                          New PEUGEOT 3008            
                   </a>
+                  <br>
                   <span>950.000.000VND</span>     
                 </li>
 
@@ -98,6 +101,7 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/thumbnail-xe/trang-baseball-card/newpeugeot-408-THUMBNAIL-600x600.png" alt="">   
                          PEUGEOT 408           
                   </a>
+                  <br>
                   <span>1.000.000.000VND</span>     
                 </li>
 
@@ -106,17 +110,82 @@
                     <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/thumbnail-xe/trang-baseball-card/THUMBNAIL-600x600-5008-new-logo.png" alt="">   
                          New PEUGEOT 5008            
                   </a>
+                  <br>
                   <span>1.050.000.000VND</span>     
                 </li>
 
                  <li class="body-item">
                   <a  href="#">
-                    <img src="https://www.peugeotvietnam.vn/content/dam/peugeot/vietnam/peugeot-png/Peugeot-Traveller.png" alt="">   
-                         PEUGEOT Traveller        
+                    <img src="https://assets.oneweb.mercedes-benz.com/iris/iris.png?COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtGyMtsd2J%25cUfpMqXGEjy2J0lV0VOB2qBcbApUApI5uGmzQC30EQkzNHTwm7j86ohKViKw%25vq4r%25yLRg3VYaxPrSrH1enRn8w0QfoiZKbYM4Fv4lTg9LxZ6PDar6SeWHthtsd8B3cUfiAkXGE5YrJbXSqxVKnn8wPbIoTnlR4M6ouvrTg9vvn6PDK1RSeWgKItsdPJ%25cUfxCMXGE0GRJ0lBHAOB2AQ1bAp5tRI5uCQ2QC3SMFkze94pOy1qFm9KhapL1NTmj32vvRWydVXjdhcfWF0FT3THuPsa28uKxvdbjd&imgt=P27&bkgnd=9&pov=BE040&uni=m&width=400&im=Crop,rect=(0,0,400,187),gravity=North&cp=8mhxDZy3qhkDFW2gqQWvpQ" alt="">   
+                          Mercesdes GT 4-door Coupé    
                   </a>
-                  <span>1.500.000.000VND</span>     
+                  <br>
+                  <span>2.390.000.000</span>     
                 </li>
 
+                <li class="body-item">
+                  <a  href="#">
+                    <img src="https://assets.oneweb.mercedes-benz.com/iris/iris.png?COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZ6ZHZbMw3SGtGyMtsdAv3cUf5rcXGE5YrJbXSqxVKnn8wPbIoTnlR4M6ouvrTg9U1n6PDAGoSeWf%25MtsdE1tcUflwfXGE2hEJ0lp%25fOB2u5EbAp3CoI5uE5ZQC3lXFkzN25bm7jpv3hKV0cM%25vqrUdyLRnb6YaxoTWrH1MVtn8wBocoiZCkNM4FzRRTg9itZ6PD4%25DSeWgnRtsdPyDcUfeT6XGEsFmJ0lh4VOB2ZnnbApFrpI5ubvxQC3IAOkzN7mum7jDcfhKVjbQ%25vqYUTyLR3tmYaBEUVmMDZfrEQ5fA3JxXr1RjiiF2MpwQ1pnIu2fzfXRXPq0Agjeq89iph1p&imgt=P27&bkgnd=9&pov=BE040&uni=m&width=400&im=Crop,rect=(0,0,400,187),gravity=North&cp=8mhxDZy3qhkDFW2gqQWvpQ" alt="">   
+                         Mercedes-AMG G-Class        
+                  </a>
+                  <br>
+                  <span>5.500.000.000VND</span>     
+                </li>
+
+                <li class="body-item">
+                  <a  href="#">
+                    <img src="https://media.oneweb.mercedes-benz.com/images/dynamic/asia/VN/232482/804_054/iris.png?q=COSY-EU-100-1713d0VXqrWLqtyO67PobzIr3eWsrrCsdRRzwQZ6ZHZbMw3SGtGyWtsd2HdcUfpOyXGEuTRJ0lVYrOB2srObApUPlI5uGmIQC30E3kzNHTnm7j8cDhKVi%25N%25vq46lyLRhLFYax%255hrH1GBfn8w0TfoiZB%25oM4FAy2Tg9LQ96PDaPpSeWHw9tsd8otcUfiMfXGE4JmJ0lgOrOB2Pz%25bApe79I5uKoDQC3vgpkzNL6Sm%25kFpKhymWBM%25vqBI%25yLR03PYaxvOcrH1peWn8wiT2oiZ4M1M4zuA1YtEWpTuPkEcFxFIT9ZxexrlrKE847dvE5jCDtyAib&imgt=P27&bkgnd=9&pov=BE040,DZO&uni=m&width=400&im=Crop,rect=(0,0,400,187),gravity=North&uni=m&width=400&im=Crop,rect=(0,0,400,187),gravity=North&cp=8mhxDZy3qhkDFW2gqQWvpQ" alt="">   
+                       Mercedes SL Roadster       
+                  </a>
+                  <br>
+                  <span>3.500.000.000VND</span>     
+                </li>
+
+                <li class="body-item">
+                  <a  href="#">
+                    <img src="https://cdn.honda.com.vn/automobiles/October2024/RCDX9yV7FbUP7JI16lKB.png" alt="">   
+                             Honda CIVIC TYPE R
+                  </a>
+                  <br>
+                  <span>2.999.000.000VND</span>     
+                </li>
+
+                <li class="body-item">
+                  <a  href="#">
+                    <img src="https://cdn.honda.com.vn/automobiles/October2024/3yA8TZ6G9GWlLgdEOTrf.png" alt="">   
+                         Honda BR-V
+                  </a>
+                  <br>
+                  <span>600.000.000VND</span>     
+                </li>
+
+                <li class="body-item">
+                  <a  href="#">
+                    <img src="https://cdn.honda.com.vn/automobiles/December2021/q5Jlxw0vQ0KX45AeH1Rn.png" alt="">   
+                         Honda  ACCORD      
+                  </a>
+                  <br>
+                  <span>1.319.000.000VND</span>     
+                </li>
+
+                <li class="body-item">
+                  <a  href="#">
+                    <img src="https://toyotathanglong.com.vn/wp-content/uploads/2023/06/Den-1.png" alt="">   
+                         Toyota Camry        
+                  </a>
+                  <br>
+                  <span>1.220.000.000VND</span>     
+                </li>
+                
+                <li class="body-item">
+                  <a  href="#">
+                    <img src="https://toyotathanglong.com.vn/wp-content/uploads/2023/06/A898A3E065523280315A315C05B67A72.png" alt="">   
+                         Toyota Fortuner
+                  </a>
+                  <br>
+                  <span>1.050.000.000VND</span>     
+                </li>
+                
             </ul>
 
           </div>

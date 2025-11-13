@@ -93,7 +93,7 @@
                          New PEUGEOT 3008            
                   </a>
                   <br>
-                  <span>950.000.000VND</span>     
+                  <span>850.000.000VND</span>     
                 </li>
 
                  <li class="body-item">

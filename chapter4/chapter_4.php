@@ -77,7 +77,7 @@ $sql_select = "SELECT * FROM sinhvien ORDER BY ngay_tao DESC";
     echo "</tr>";
  // (htmlspecialchars là để bảo mật, tránh lỗi XSS - sẽ học ở Chương 9) 
  } 
- // Đóng vòng lặp 
+ 
  
  ?> 
  </table> 
